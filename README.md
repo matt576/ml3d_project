@@ -1,9 +1,12 @@
-# ml3d_project
-'Segment Anything Model (SAM) with ScanNet++ Point Cloud Data'
+# Segment Anything Model (SAM) for Point Cloud Data
+
+Open-source application of SAM on 3D point cloud inputs from ScanNet++ dataset using spherical projection.
+
+Post-processing of segmented 3D point cloud outputs with k-nearest neighbors (k-NN) algorithm.
 
 Group project for the 'Machine Learning for 3D Geometry' course at TUM.
 
-Contributors: Alejandro Torra, Maximilian Summerer.
+Contributors: Matheus Ribeiro de Oliveira, Alejandro Torra, Maximilian Summerer.
 
 References:
 
